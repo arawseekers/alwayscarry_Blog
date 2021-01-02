@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/contact/</loc>
+    <lastmod>2021-01-02T12:48:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-12-30T20:01:17+08:00</lastmod>
   </url>
@@ -23,27 +28,11 @@
   </url>
   
   <url>
-    <loc>/colophon/</loc>
-    <lastmod>2020-11-14T00:10:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/repair/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/repair-ipod/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
 </urlset>

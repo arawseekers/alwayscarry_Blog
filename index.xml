@@ -12,6 +12,21 @@
     
     
     <item>
+      <title>Contact Us!</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 02 Jan 2021 12:48:13 +0800</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re placing an order, be sure to use our &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt; instead.&lt;/p&gt;
+&lt;p&gt;Comments, suggestions, recommendations?
+Here are the ways to get in touch, in order of &lt;strong&gt;most preferred to least&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IG&lt;/strong&gt;: &lt;a href=&#34;https://www.instagram.com/alwayscarry.abook&#34;&gt;@alwayscarry.abook&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;FB&lt;/strong&gt;: &lt;a href=&#34;https://www.facebook.com/A.C.A.Books&#34;&gt;@A.C.A.Books&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:alwaysCarryaBook2020@gmail.com&#34;&gt;alwaysCarryaBook2020@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>List of Available Books</title>
       <link>/books/</link>
       <pubDate>Wed, 30 Dec 2020 20:01:17 +0800</pubDate>
@@ -30,36 +45,36 @@
 We are a small team with a big passion to share our love of books.
 Please bear with us as we process your orders.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-order&#34;&gt;How to Order&lt;/h2&gt;
-&lt;p&gt;Once you&amp;rsquo;ve chosen something, be sure to reserve it by filling out this &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;ve chosen something, take note of the book code and be sure to reserve it by filling out this &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You will receive an invoice including the details of your order, confirming that it has been reserved under your name.&lt;/p&gt;
 &lt;p&gt;We will then reserve it in your name for the next 24 hours, during which we await your payment.&lt;/p&gt;
 &lt;h2 id=&#34;payment-methods&#34;&gt;Payment Methods&lt;/h2&gt;
-&lt;p&gt;We accept payments through &lt;strong&gt;GCash&lt;/strong&gt;, &lt;strong&gt;PayMaya&lt;/strong&gt; and &lt;strong&gt;Bank Transfer&lt;/strong&gt;.
-Shipping fees are excluded.
+&lt;p&gt;We accept payments through &lt;strong&gt;GCash&lt;/strong&gt;, &lt;strong&gt;PayMaya&lt;/strong&gt; and &lt;strong&gt;Bank Transfer&lt;/strong&gt; (BPI, BDO, Security Bank, and UnionBank only).
+Details like contact number and/or bank account number will be included in the invoice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shipping fees are excluded.&lt;/strong&gt;
 This will be shouldered by the buyer.&lt;/p&gt;
 &lt;p&gt;Note that we will only process your orders and ship them once your payment is verified.
 Give us &lt;strong&gt;at least 24-48 hours&lt;/strong&gt; to confirm your payments.
 Once confirmed, we will process your order right away!&lt;/p&gt;
-&lt;p&gt;If, after 24 hours, no payment was made, the chosen book will be up again for the public.&lt;/p&gt;
+&lt;p&gt;If, after 24 hours, no payment was made, the chosen book/s will be up again for the public.&lt;/p&gt;
 &lt;h2 id=&#34;shipping-and-delivery&#34;&gt;Shipping and Delivery&lt;/h2&gt;
 &lt;h3 id=&#34;for-metro-manila-and-greater-manila-area&#34;&gt;For Metro Manila and Greater Manila Area&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;re from these areas, you have the option to have your orders be delivered in the same day.
+We will use either &lt;strong&gt;Grab Express, Angkas, or Lalamove&lt;/strong&gt;, whichever is available and cheapest.&lt;/p&gt;
 &lt;h3 id=&#34;nationwide&#34;&gt;Nationwide&lt;/h3&gt;
+&lt;p&gt;We will use the services of known couriers like &lt;strong&gt;LBC, J&amp;amp;T, JRS Express&lt;/strong&gt;, etc, whichever is available and cheapest.&lt;/p&gt;
+&lt;p&gt;We plan on &amp;ldquo;dropping&amp;rdquo; all the confirmed orders on the courier every Wednesday.&lt;/p&gt;
 &lt;h2 id=&#34;unwanted-blunders&#34;&gt;Unwanted Blunders&lt;/h2&gt;
+&lt;p&gt;We will make sure that things will go smoothly on our end.
+However, when the courier &amp;ldquo;has secured&amp;rdquo; the orders, it&amp;rsquo;s likely beyond our control from that point on.
+Rest assured, we will be with you in tracking your orders.
+We only ask that you make sure of the delivery/shipping details.&lt;/p&gt;
 &lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
 &lt;p&gt;We value and respect your privacy.
 All personal information collected will only be used to improve your experience with our online shop.
 No data will be stored permanently.
 Any changes in our policies may be made without prior notice.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>/colophon/</link>
-      <pubDate>Sat, 14 Nov 2020 00:10:34 +0800</pubDate>
-      
-      <guid>/colophon/</guid>
-      <description></description>
     </item>
     
   </channel>
