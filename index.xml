@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Always Carry A Book!</title>
+    <title>Always Carry!</title>
     <link>/</link>
-    <description>Recent content on Always Carry A Book!</description>
+    <description>Recent content on Always Carry!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 21:55:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 10:29:55 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>List of Available Books</title>
+      <title>Always Carry the Homey Feels</title>
+      <link>/home/</link>
+      <pubDate>Sat, 24 Apr 2021 10:29:55 +0800</pubDate>
+      
+      <guid>/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
       <link>/books/</link>
-      <pubDate>Tue, 13 Apr 2021 21:55:24 +0800</pubDate>
+      <pubDate>Fri, 23 Apr 2021 21:18:14 +0800</pubDate>
       
       <guid>/books/</guid>
       <description></description>
@@ -29,8 +38,8 @@
       <description>&lt;p&gt;If you&amp;rsquo;re placing an order, be sure to use our &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt; instead.&lt;/p&gt;
 &lt;p&gt;Comments, suggestions, recommendations?
 Here are the ways to get in touch, in order of &lt;strong&gt;most preferred to least&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;IG&lt;/strong&gt;: &lt;a href=&#34;https://www.instagram.com/alwayscarry.abook&#34;&gt;@alwayscarry.abook&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;FB&lt;/strong&gt;: &lt;a href=&#34;https://www.facebook.com/A.C.A.Books&#34;&gt;@A.C.A.Books&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;IG&lt;/strong&gt;: &lt;a href=&#34;https://www.instagram.com/alwayscarry.abook&#34;&gt;@alwayscarry.abook&lt;/a&gt; / &lt;a href=&#34;https://www.instagram.com/alwayscarry.abook&#34;&gt;@alwayscarry.homeyfeels&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;FB&lt;/strong&gt;: &lt;a href=&#34;https://www.facebook.com/A.C.A.Books&#34;&gt;@A.C.A.Books&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/A.C.A.Books&#34;&gt;@always.feelshome&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:alwaysCarryaBook2020@gmail.com&#34;&gt;alwaysCarryaBook2020@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -45,9 +54,13 @@ Here are the ways to get in touch, in order of &lt;strong&gt;most preferred to l
 We are a small team with a big passion to share our love of books.
 Please bear with us as we process your orders.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-order&#34;&gt;How to Order&lt;/h2&gt;
-&lt;p&gt;Once you&amp;rsquo;ve chosen something, take note of the book code and be sure to reserve it by filling out this &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You will receive an invoice including the details of your order, confirming that it has been reserved under your name.&lt;/p&gt;
-&lt;p&gt;We will then reserve it in your name for the next 24 hours, during which we await your payment.&lt;/p&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;p&gt;Take note of the code and be sure to reserve it by filling out this &lt;strong&gt;&lt;a href=&#34;https://forms.gle/yebh3XHyuUqe7xG8A&#34;&gt;Google Form&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;homey-feels&#34;&gt;Homey Feels&lt;/h3&gt;
+&lt;p&gt;Process is simpler:
+just indicate the items and the quantity of each in the DM you&amp;rsquo;ll send us.&lt;/p&gt;
+&lt;p&gt;In both cases above, you will receive an invoice including the details of your order.&lt;/p&gt;
+&lt;p&gt;We will then reserve the goods in your name for the next 24 hours, during which we await your payment.&lt;/p&gt;
 &lt;h2 id=&#34;payment-methods&#34;&gt;Payment Methods&lt;/h2&gt;
 &lt;p&gt;We accept payments through &lt;strong&gt;GCash&lt;/strong&gt;, &lt;strong&gt;PayMaya&lt;/strong&gt; and &lt;strong&gt;Bank Transfer&lt;/strong&gt; (BPI, BDO, Security Bank, and UnionBank only).
 Details like contact number and/or bank account number will be included in the invoice.&lt;/p&gt;
